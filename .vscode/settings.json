@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "longphics",
+        "projectKey": "longphics_test-sonar"
+    }
+}
